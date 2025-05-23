@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "560335029979",
+    "project_id": "testowy-zajecia",
+    "storage_bucket": "testowy-zajecia.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560335029979:android:9269f93bf0fe058db6eefe",
+        "android_client_info": {
+          "package_name": "com.technischools.fcm_test_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqBSvTh9V7u5SOLGURIVlr2f1siU46YQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
